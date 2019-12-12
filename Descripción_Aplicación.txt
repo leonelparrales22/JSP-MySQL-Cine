@@ -1,0 +1,14 @@
+Proyecto creado con tecnología JSP y Gestor de Base de Datos MySQL usando TOMCAT
+En el cual posee dos módulos 
+*Cliente 
+*Operador 
+
+El operador podrá:
+*Registrar una pel'icula
+*Actualizar datos
+*Eliminar película
+
+El cliente podrá:
+*Buscar por categoría
+*Buscar todas las películas
+
